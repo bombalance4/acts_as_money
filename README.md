@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Add YOLOv8 LibTorch C++ inference example (#7090)
